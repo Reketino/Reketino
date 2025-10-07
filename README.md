@@ -3,13 +3,13 @@
 👨‍💻 27 år gammel | 📍 Norge | 🎓 Deltaker i **Kodehode**
 
 💻 Jeg har holdt på med PC i over 20 år — alt fra **gaming** 🎮 til **videoredigering i Premiere Pro** og **bildebehandling i Photoshop**.
-Nå har jeg kastet meg inn i **kodeverdenen**, og jeg elsker det!
+Nå har jeg kastet meg inn i **kodeverdenen** gjennom Kodehode, og jeg elsker det!
 
 ---
 
 ## 💻 Teknisk bakgrunn
 
-Jeg har  erfaring innen frontend-utvikling, spesielt med:
+Jeg har erfaring innen frontend-utvikling, spesielt med:
 
 * 🌐 **HTML**, **CSS**, **JavaScript**
 * ⚛️ **React** og **Next.js**
