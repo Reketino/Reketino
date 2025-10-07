@@ -1,6 +1,6 @@
 # 👋 Hei, jeg er Bjørn Even — også kjent som *Reketino*
 
-👨‍💻 27 år gammel | 📍 Norge | 🎓 Deltaker i **Kodehode**
+👨‍💻 28 år gammel | 📍 Norge | 🎓 Deltaker i **Kodehode**
 
 💻 Jeg har holdt på med PC i over 20 år — alt fra **gaming** 🎮 til **videoredigering i Premiere Pro** og **bildebehandling i Photoshop**.
 Nå har jeg kastet meg inn i **kodeverdenen** gjennom Kodehode, og jeg elsker det!
