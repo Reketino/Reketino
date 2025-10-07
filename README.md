@@ -1,8 +1,10 @@
+
+# 👋 Hei, jeg er Bjørn Even — også kjent som *Reketino*
+
 <p align="center">
   <img src="https://github.com/reketino/reketino/blob/main/reke.png" alt="reketino banner" />
 </p>
 
-# 👋 Hei, jeg er Bjørn Even — også kjent som *Reketino*
 
 👨‍💻 28 år gammel | 📍 Norge | 🎓 Deltaker i **Kodehode**
 
