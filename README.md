@@ -57,6 +57,6 @@ Når jeg ikke sitter foran PC-en, finner du meg som regel ute i naturen. Jeg lik
 
 ![Reketino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reketino\&show_icons=true\&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reketino\&layout=compact\&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Reketino\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Reketino&theme=tokyonight&hide_border=true)
 
 
