@@ -28,10 +28,10 @@ Jeg er spent på hvor denne reisen tar meg videre.
 ## 🧠 Tech Stack
 
 **Har erfaring med:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,supabase,vscode,github,photoshop,pr,ae,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,supabase,vscode,github,photoshop,pr,ae,)](https://skillicons.dev)
 
 **Planlegger å lære:**
-[![Learning Soon](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)
+[![Learning Soon](https://skillicons.dev/icons?i=python,ts,cs)](https://skillicons.dev)
 
 ---
 
