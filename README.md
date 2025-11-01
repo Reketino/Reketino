@@ -30,7 +30,7 @@ Jeg er spent på hvor denne reisen tar meg videre.
 **Har erfaring med:**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,supabase,vscode,github,photoshop,pr,ae,)](https://skillicons.dev)
 
-**Planlegger å lære:**
+**Planlegger å fordype meg mer i:**
 [![Learning Soon](https://skillicons.dev/icons?i=python,ts,cs)](https://skillicons.dev)
 
 ---
