@@ -39,7 +39,7 @@ Jeg er spent på hvor denne reisen tar meg videre.
 
 Når jeg ikke sitter foran PC-en, finner du meg som regel ute i naturen. Jeg liker å holde meg aktiv gjennom:
 
-* 🏃‍♂️ Terrengløping
+* 🏃‍♂️ Terrengløping/Jogging
 * 🚴‍♂️ Sykling (både terreng og landevei)
 * 🏋️ CrossFit
 * ❄️ Vinteraktiviteter som **trugeturer**, **snowboard** og **splitboard**
