@@ -2,7 +2,7 @@
 # 👋 Hei, jeg er Bjørn Even — også kjent som *Reketino*
 
 <p align="center">
-  <img src="https://github.com/reketino/reketino/blob/main/rekern.png" alt="Reketino banner" />
+  <img src="https://github.com/reketino/reketino/blob/main/rekerino.png" alt="Reketino banner" />
 </p>
 
 
