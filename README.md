@@ -1,5 +1,5 @@
 
-<h1>👋 Hi, I’m Bjørn Even — also known as Reketino </h1>
+<h1 align="center">👋 Hi, I’m Bjørn Even — also known as Reketino </h1>
 
 <p align="center"> <img src="https://github.com/reketino/reketino/blob/main/rekerino.png" alt="Reketino banner" /> </p>
 
