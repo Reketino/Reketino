@@ -1,55 +1,52 @@
 
-# 👋 Hei, jeg er Bjørn Even — også kjent som *Reketino*
+👋 Hi, I’m Bjørn Even — also known as Reketino
 
-<p align="center">
-  <img src="https://github.com/reketino/reketino/blob/main/rekerino.png" alt="Reketino banner" />
-</p>
+<p align="center"> <img src="https://github.com/reketino/reketino/blob/main/rekerino.png" alt="Reketino banner" /> </p>
 
+👨‍💻 28 years old | 📍 Norway | 🎓 Participant at Kodehode
 
-👨‍💻 28 år gammel | 📍 Norge | 🎓 Deltaker i **Kodehode**
-
-💻 Jeg har holdt på med PC i over 20 år — alt fra **gaming** 🎮 til **videoredigering i Premiere Pro** og **bildebehandling i Photoshop**.
-Nå har jeg kastet meg inn i **kodeverdenen** gjennom Kodehode, og jeg elsker det!
+💻 I’ve been working with computers for over 20 years — everything from gaming 🎮 to video editing in Premiere Pro and photo editing in Photoshop.
+Now I’ve jumped into the world of coding through Kodehode, and I absolutely love it!
 
 ---
 
-## 💻 Teknisk bakgrunn
+💻 Technical Background
 
-Jeg har erfaring innen frontend-utvikling, spesielt med:
+I have experience in frontend development, especially with:
 
 * 🌐 **HTML**, **CSS**, **JavaScript**
-* ⚛️ **React** og **Next.js**
+* ⚛️ **React** and **Next.js**
 
-Videre har jeg planer om å fordype meg mer i **backend-utvikling**, og ser frem til å lære **Python** og **C#**.
-Jeg er spent på hvor denne reisen tar meg videre.
+I also plan to dive deeper into backend development and look forward to learning Python and C#.
+I’m excited to see where this journey takes me next.
 
 ---
 
 ## 🧠 Tech Stack
 
-**Har erfaring med:**
+**Experienced with:**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,supabase,vscode,github,photoshop,pr,ae,)](https://skillicons.dev)
 
-**Planlegger å fordype meg mer i:**
+**Planning to learn more about:**
 [![Learning Soon](https://skillicons.dev/icons?i=python,ts,cs)](https://skillicons.dev)
 
 ---
 
-## 🏋️‍♂️ Når jeg ikke koder
+## 🏋️‍♂️ When I’m Not Coding
 
-Når jeg ikke sitter foran PC-en, finner du meg som regel ute i naturen. Jeg liker å holde meg aktiv gjennom:
+When I’m not in front of the computer, you’ll usually find me outdoors. I like to stay active through:
 
-* 🏃‍♂️ Terrengløping/Jogging
-* 🚴‍♂️ Sykling (både terreng og landevei)
+* 🏃‍♂️ Trail running / jogging
+* 🚴‍♂️ Cycling (both mountain and road)
 * 🏋️ CrossFit
-* ❄️ Vinteraktiviteter som **trugeturer**, **snowboard** og **splitboard**
+* ❄️ Winter activities like **snowshoeing**, **snowboarding** og **splitboarding**
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
 📧 **[bjornevensk8@gmail.com](mailto:bjornevensk8@gmail.com)**
-🔗 Ta gjerne en titt på prosjektene mine her på GitHub 👇
+🔗 Feel free to check out my projects here on GitHub👇
 
 ---
 
