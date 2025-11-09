@@ -10,7 +10,7 @@ Now I’ve jumped into the world of coding through Kodehode, and I absolutely lo
 
 ---
 
-##💻 Technical Background
+## 💻 Technical Background
 
 I have experience in frontend development, especially with:
 
