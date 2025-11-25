@@ -25,7 +25,7 @@ I’m excited to see where this journey takes me next.
 ## 🧠 Tech Stack
 
 **Experienced with:**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,supabase,vscode,github,photoshop,pr,ae,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,supabase,vscode,git,github,photoshop,pr,ae,)](https://skillicons.dev)
 
 **Planning to learn more about:**
 [![Learning Soon](https://skillicons.dev/icons?i=python,ts,cs)](https://skillicons.dev)
