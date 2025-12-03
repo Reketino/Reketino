@@ -52,8 +52,8 @@ When I’m not in front of the computer, you’ll usually find me outdoors. I li
 
 ## 📊 GitHub Stats
 
-![Reketino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reketino&show_icons=true&theme=tokyonight&cache_seconds=7200)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reketino&layout=compact&theme=tokyonight&cache_seconds=7200)
+![Reketino's GitHub Stats](https://github-stats-reketinos-projects.vercel.app/api?username=Reketino&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-stats-reketinos-projects.vercel.app/api/top-langs/?username=Reketino&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Reketino&theme=tokyonight&hide_border=true)
 
 
