@@ -14,11 +14,12 @@ Now I’ve jumped into the world of coding through Kodehode, and I absolutely lo
 
 I have experience in frontend development, especially with:
 
-* 🌐 **HTML**, **CSS**, **JavaScript**
-* ⚛️ **React** and **Next.js**
+- 🌐 **HTML**, **CSS**, **JavaScript**
+- ⚛️ **React** and **Next.js**
+- 🐍 **Python backend development**
+- 🔗 Working with **APIs** (building & integrating)
+- 🧩 Transitioning into a **fullstack developer** role
 
-I also plan to dive deeper into backend development and look forward to learning Python and C#.
-I’m excited to see where this journey takes me next.
 
 ---
 
@@ -56,4 +57,7 @@ When I’m not in front of the computer, you’ll usually find me outdoors. I li
 ![Top Languages](https://github-stats-reketinos-projects.vercel.app/api/top-langs/?username=Reketino&layout=compact&theme=tokyonight&cache_seconds=7200)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Reketino&theme=tokyonight&hide_border=true)
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Reketino&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
