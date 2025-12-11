@@ -14,21 +14,27 @@ Now I’ve jumped into the world of coding through Kodehode, and I absolutely lo
 
 I work across both frontend and backend development, with hands-on experience in:
 
-### **Frontend**
+---
+
+### 🎨 **Frontend**
 - HTML, CSS, Tailwind CSS  
 - JavaScript & React  
 - Next.js (App Router, Server/Client Components, Routing, API Routes)  
 - Component architecture & responsive design  
-- Basic UX/UI principles and accessibility
+- Basic UX/UI principles and accessibility  
 
-### **Backend**
+---
+
+### 🛠️ **Backend**
 - Python for backend logic, scripting, and automation  
 - Node.js fundamentals  
 - Working with REST APIs (building & integrating)  
 - Async workflows, error handling, environment variables  
-- Intro-level authentication concepts (sessions, tokens)
+- Intro-level authentication concepts (sessions, tokens)  
 
-### **General Development**
+---
+
+### 🧰 **General Development**
 - Git & GitHub  
 - VS Code  
 - NPM ecosystem & package management  
@@ -48,6 +54,7 @@ I work across both frontend and backend development, with hands-on experience in
 - **Debugging** → 70% of the time, the existential crisis covers the remaining 30%  
 - **API integrations** like I somehow own the internet  
 - **UX/UI** that (hopefully) doesn’t blind anyone  
+
 
 ---
 
