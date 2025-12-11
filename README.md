@@ -12,14 +12,42 @@ Now I’ve jumped into the world of coding through Kodehode, and I absolutely lo
 
 ## 💻 Technical Background
 
-I have experience in both frontend  & backend development especially with:
+I work across both frontend and backend development, with hands-on experience in:
 
-- 🌐 **HTML**, **CSS**, **Tailwind**, **JavaScript** 
-- ⚛️ **React** and **Next.js**
-- 🐍 **Python for backend development and scripting**
-- 🔗 Working with **APIs** (building & integrating)
-- 🧩 Transitioning into a **fullstack developer** role
+### **Frontend**
+- HTML, CSS, Tailwind CSS  
+- JavaScript & React  
+- Next.js (App Router, Server/Client Components, Routing, API Routes)  
+- Component architecture & responsive design  
+- Basic UX/UI principles and accessibility
 
+### **Backend**
+- Python for backend logic, scripting, and automation  
+- Node.js fundamentals  
+- Working with REST APIs (building & integrating)  
+- Async workflows, error handling, environment variables  
+- Intro-level authentication concepts (sessions, tokens)
+
+### **General Development**
+- Git & GitHub  
+- VS Code  
+- NPM ecosystem & package management  
+- Debugging UI/logic issues  
+- Structuring maintainable full-stack projects  
+
+---
+
+## 🚀 What I Usually Build Stuff With
+
+- **React & Next.js** — my natural habitat  
+- **Tailwind CSS** to style things faster than I break them  
+- **API routes & server components**, plus whatever chaos Next.js 16 throws at me  
+- **Python** when I need backend magic  
+- **Node + npm** to install things I definitely don’t need  
+- **GitHub commits** that either fix everything or destroy the universe  
+- **Debugging** → 70% of the time, the existential crisis covers the remaining 30%  
+- **API integrations** like I somehow own the internet  
+- **UX/UI** that (hopefully) doesn’t blind anyone  
 
 ---
 
