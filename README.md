@@ -12,11 +12,11 @@ Now I’ve jumped into the world of coding through Kodehode, and I absolutely lo
 
 ## 💻 Technical Background
 
-I have experience in frontend development, especially with:
+I have experience in both frontend  & backend development especially with:
 
-- 🌐 **HTML**, **CSS**, **JavaScript**
+- 🌐 **HTML**, **CSS**, **Tailwind**, **JavaScript** 
 - ⚛️ **React** and **Next.js**
-- 🐍 **Python backend development**
+- 🐍 **Python for backend development and scripting**
 - 🔗 Working with **APIs** (building & integrating)
 - 🧩 Transitioning into a **fullstack developer** role
 
@@ -26,7 +26,7 @@ I have experience in frontend development, especially with:
 ## 🧠 Tech Stack
 
 **Experienced with:**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,python,supabase,vscode,git,github,photoshop,pr,ae,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,npm,nodejs,python,supabase,vscode,git,github,photoshop,pr,ae,)](https://skillicons.dev)
 
 **Planning to learn more about:**
 [![Learning Soon](https://skillicons.dev/icons?i=ts,cs)](https://skillicons.dev)
