@@ -88,11 +88,15 @@ When I’m not in front of the computer, you’ll usually find me outdoors. I li
 
 ## 📊 GitHub Stats
 
-![Reketino's GitHub Stats](https://github-stats-reketinos-projects.vercel.app/api?username=Reketino&show_icons=true&theme=tokyonight&cache_seconds=7200)
-![Top Languages](https://github-stats-reketinos-projects.vercel.app/api/top-langs/?username=Reketino&layout=compact&theme=tokyonight&cache_seconds=7200)
-![GitHub Streak](https://streak-stats.demolab.com?user=Reketino&theme=tokyonight&hide_border=true)
+![Reketino's GitHub Stats](https://github-stats-reketinos-projects.vercel.app/api?username=Reketino&show_icons=true&theme=tokyonight&cache_seconds=7200&v=1)
+
+![Top Languages](https://github-stats-reketinos-projects.vercel.app/api/top-langs/?username=Reketino&layout=compact&theme=tokyonight&cache_seconds=7200&v=1)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Reketino&theme=tokyonight&hide_border=true&v=1)
+
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Reketino&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Reketino&theme=tokyonight&no-frame=true&margin-w=10)
+
 
