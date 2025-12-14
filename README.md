@@ -61,7 +61,7 @@ I work across both frontend and backend development, with hands-on experience in
 ## 🧠 Tech Stack
 
 **Experienced with:**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,npm,nodejs,python,supabase,vscode,git,github,photoshop,pr,ae,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,npm,nodejs,python,supabase,vscode,git,github,photoshop,pr,ae)](https://skillicons.dev)
 
 **Planning to learn more about:**
 [![Learning Soon](https://skillicons.dev/icons?i=ts,cs)](https://skillicons.dev)
@@ -95,7 +95,7 @@ When I’m not in front of the computer, you’ll usually find me outdoors. I li
 
 ### 💬 Reketino`s Daily Dev Quote
 
-![Daily Dev Quote](https://dailydevquotes.vercel.app/api/quote?user=reketino&theme=tokyonight)
+![Daily Dev Quote](https://dailydevquotes.vercel.app/api/quote?user=reketino)
 
 
 
