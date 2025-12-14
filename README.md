@@ -96,7 +96,7 @@ When I’m not in front of the computer, you’ll usually find me outdoors. I li
 ---
 
 ### 💬 Reketino`s Daily Dev Quote
-![Daily Dev Quote](https://dailydevquotes.vercel.app/api/quote?user=reketino)
+![Daily Dev Quote](https://dailydevquotes.vercel.app/api/quote?user=reketino&theme=tokyonight)
 
 
 
