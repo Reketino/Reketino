@@ -93,8 +93,10 @@ When I’m not in front of the computer, you’ll usually find me outdoors. I li
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Reketino&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
+### 💬 Rekketinos Daily Dev Quote
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Reketino&theme=tokyonight&no-frame=true&margin-w=10)
+![Daily Dev Quote](https://dailydevquotes.vercel.app/api/quote?user=reketino)
+
+
 
 
