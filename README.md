@@ -99,5 +99,4 @@ When I’m not in front of the computer, you’ll usually find me outdoors. I li
 ![Daily Dev Quote](https://dailydevquotes.vercel.app/api/quote?user=reketino&theme=tokyonight)
 
 
-[![committers.top badge](https://user-badge.committers.top/norway/USERNAME.svg)](https://user-badge.committers.top/norway/Reketino)
 
