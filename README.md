@@ -18,7 +18,7 @@ I work across both frontend and backend development, with hands-on experience in
 
 ### 🎨 **Frontend**
 - HTML, CSS, Tailwind CSS  
-- JavaScript & React  
+- JavaScript, Typescript & React  
 - Next.js (App Router, Server/Client Components, Routing, API Routes)  
 - Component architecture & responsive design  
 - Basic UX/UI principles and accessibility  
