@@ -61,7 +61,7 @@ I work across both frontend and backend development, with hands-on experience in
 ## 🧠 Tech Stack
 
 **Experienced with:**
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,npm,nodejs,python,supabase,vscode,git,github,githubactions,photoshop,pr,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,npm,nodejs,python,postgres,supabase,vscode,git,github,githubactions,photoshop,pr,ae)](https://skillicons.dev)
 
 **Planning to learn more about:**
 [![Learning Soon](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
