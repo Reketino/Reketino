@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="https://github.com/reketino/reketino/blob/main/rekerino.png" alt="Reketino banner" /> </p>
 
+
 👨‍💻 28 years old | 📍 Norway | 🎓 Participant at **Kodehode**
 
 💻 I’ve been working with computers for over 20 years — everything from **gaming** 🎮 to **video editing in Premiere Pro** and **photo editing in Photoshop**.
@@ -92,6 +93,9 @@ When I’m not in front of the computer, you’ll usually find me outdoors. I li
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reketino&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Reketino&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reketino&style=flat-square&color=blue" />
+</p>
 
 ---
 
