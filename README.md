@@ -11,6 +11,15 @@ Now I’ve jumped into the world of coding through Kodehode, and I absolutely lo
 
 ---
 
+## 🎯 Current Focus
+
+- Building production-ready full-stack apps  
+- Writing cleaner, more maintainable code  
+- Learning deeper backend architecture  
+- Exploring .NET & C#
+
+---
+
 ## 💻 Technical Background
 
 I work across both frontend and backend development, with hands-on experience in:
