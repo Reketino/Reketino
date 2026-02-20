@@ -74,7 +74,7 @@ I work across both frontend and backend development, with hands-on experience in
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,npm,nodejs,python,postgres,supabase,vscode,git,github,githubactions,photoshop,pr,ae)](https://skillicons.dev)
 
 **Planning to learn more about:**
-[![Learning Soon](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
+[![Learning Soon](https://skillicons.dev/icons?i=cs,dotnet,linux,docker)](https://skillicons.dev)
 
 ---
 
