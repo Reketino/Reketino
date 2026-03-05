@@ -4,10 +4,11 @@
 <p align="center"> <img src="https://github.com/reketino/reketino/blob/main/rekerino.png" alt="Reketino banner" /> </p>
 
 
-👨‍💻 28 years old | 📍 Norway | 🎓 Participant at **Kodehode**
+👨‍💻 28 years old | 📍 Norway | 🎓 Graduate of **Kodehode**
 
-💻 I’ve been working with computers for over 20 years — everything from **gaming** 🎮 to **video editing in Premiere Pro** and **photo editing in Photoshop**.
-Now I’ve jumped into the world of coding through Kodehode, and I absolutely love it!
+💻 Computers have been part of my life for over 20 years — from **gaming** 🎮 to creative work in **Premiere Pro** and **Photoshop**.
+
+After completing the **Kodehode** program, I moved fully into software development and now enjoy building projects, learning new technologies, and improving my coding skills every day.
 
 ---
 
