@@ -1,14 +1,23 @@
+<h1 align="center">👋 Hi, I’m Bjørn Even (Reketino)</h1>
 
-<h1 align="center">👋 Hi, I’m Bjørn Even — also known as Reketino </h1>
+<p align="center">
+  <img src="https://github.com/reketino/reketino/blob/main/rekerino.png" alt="Reketino banner" />
+</p>
 
-<p align="center"> <img src="https://github.com/reketino/reketino/blob/main/rekerino.png" alt="Reketino banner" /> </p>
+<p align="center">
+💻 Full-stack developer from Norway  
+⚡ Next.js • Tailwind • Python  
+🚀 Building real-world applications & improving every day
+</p>
 
+---
 
-👨‍💻 28 years old | 📍 Norway | 🎓 Graduate of **Kodehode**
+## 🧠 About Me
 
-💻 Computers have been part of my life for over 20 years — from **gaming** 🎮 to creative work in **Premiere Pro** and **Photoshop**.
+I’ve spent 20+ years around computers — from gaming 🎮 to creative work in Premiere Pro and Photoshop.
 
-After completing the **Kodehode** program, I moved fully into software development and now enjoy building projects, learning new technologies, and improving my coding skills every day.
+After graduating from **Kodehode**, I went all-in on software development.  
+Now I focus on building real projects, writing cleaner code, and improving my skills every single day.
 
 ---
 
@@ -17,100 +26,91 @@ After completing the **Kodehode** program, I moved fully into software developme
 - Building production-ready full-stack apps  
 - Writing cleaner, more maintainable code  
 - Learning deeper backend architecture  
-- Exploring .NET & C#
+- Exploring .NET & C#  
 
 ---
 
-## 💻 Technical Background
+## 🧠 What I Know
 
-I work across both frontend and backend development, with hands-on experience in:
-
----
-
-### 🎨 **Frontend**
-- HTML, CSS, Tailwind CSS  
-- JavaScript, Typescript & React  
-- Next.js (App Router, Server/Client Components, Routing, API Routes)  
-- Component architecture & responsive design  
-- Basic UX/UI principles and accessibility  
+- Building and integrating APIs (auth, data flow, automation)  
+- Designing full-stack applications (frontend + backend architecture)  
+- Writing structured backend logic in Python and Node.js  
+- Handling async workflows, error handling & environment configs  
+- Creating interactive UIs with React & Next.js  
+- Working with real-world projects and client solutions  
+- Turning ideas into actual working systems  
 
 ---
 
-### 🛠️ **Backend**
-- Python for backend logic, scripting, and automation  
-- Node.js fundamentals  
-- Working with REST APIs (building & integrating)  
-- Async workflows, error handling, environment variables  
-- Intro-level authentication concepts (sessions, tokens)  
+## 💻 Tech Stack
 
----
+**Main tools**
+- Next.js (App Router)  
+- React + TypeScript  
+- Tailwind CSS  
+- Python  
+- Node.js  
 
-### 🧰 **General Development**
+**Also worked with**
+- REST APIs  
+- Supabase / PostgreSQL  
 - Git & GitHub  
-- VS Code  
-- NPM ecosystem & package management  
-- Debugging UI/logic issues  
-- Structuring maintainable full-stack projects  
+- Authentication basics (sessions, tokens)  
 
 ---
 
-## 🚀 What I Usually Build Stuff With
+## 🚀 How I Build
 
-- **React & Next.js** — my natural habitat  
-- **Tailwind CSS** to style things faster than I break them  
-- **API routes & server components**, plus whatever chaos Next.js 16 throws at me  
-- **Python** when I need backend magic  
-- **Node + npm** to install things I definitely don’t need  
-- **GitHub commits** that either fix everything or destroy the universe  
-- **Debugging** → 70% of the time, the existential crisis covers the remaining 30%  
-- **API integrations** like I somehow own the internet  
-- **UX/UI** that (hopefully) doesn’t blind anyone  
-
+- React & Next.js — my natural habitat  
+- Tailwind — styling faster than I break things  
+- API routes & server components (Next.js 16 chaos included)  
+- Python for backend logic & automation  
+- Debugging → 70% fixing, 30% questioning life  
+- API integrations like I own the internet  
 
 ---
 
-## 🧠 Tech Stack
+## 🧰 Tools & Technologies
 
-**Experienced with:**
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,npm,nodejs,python,postgres,supabase,vscode,git,github,githubactions,photoshop,pr,ae)](https://skillicons.dev)
 
-**Planning to learn more about:**
-[![Learning Soon](https://skillicons.dev/icons?i=cs,dotnet,linux,kali,docker)](https://skillicons.dev)
+**Planning to learn & understand more about**
+[![Learning Soon](https://skillicons.dev/icons?i=cs,dotnet,linux,docker)](https://skillicons.dev)
 
 ---
 
-## 🏋️‍♂️ When I’m Not Coding
+## 🏃‍♂️ Outside Tech
 
-When I’m not in front of the computer, you’ll usually find me outdoors. I like to stay active through:
-
-* 🏃‍♂️ Trail running / jogging
-* 🚴‍♂️ Cycling (both mountain and road)
-* 🏋️ CrossFit
-* ❄️ Winter activities like **snowshoeing**, **snowboarding** og **splitboarding**
+- Trail running / jogging  
+- Cycling (MTB & road)  
+- Snowboarding & splitboarding  
 
 ---
 
 ## 📫 Contact
 
-📧 **[bjornevensk8@gmail.com](mailto:bjornevensk8@gmail.com)**
-🔗 Feel free to check out my projects here on GitHub👇
+📧 **[bjornevensk8@gmail.com](mailto:bjornevensk8@gmail.com)**  
 
 ---
 
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reketino&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reketino&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Reketino&theme=tokyonight&hide_border=true)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Reketino&style=flat-square&color=blue" />
 </p>
 
 ---
 
-### 💬 Reketino`s Daily Dev Quote
+## 💬 Daily Dev Quote (built by me)
+
 ![Daily Dev Quote](https://dailydevquotes.vercel.app/api/quote?user=reketino&theme=tokyonight)
 
+---
+
+> I don’t just build UI — I build systems that actually work.
 
 
