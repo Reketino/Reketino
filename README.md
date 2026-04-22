@@ -9,6 +9,10 @@
 ⚡ Next.js • Tailwind • Python  
 🚀 Building real-world applications & improving every day
 </p>
+<p align="center">
+🌐 <a href="https://www.reketino.no/">reketino</a> •
+📩 <a href="mailto:bjornevensk8@gmail.com">bjornevensk8@gmail.com</a>
+</p>
 
 ---
 
