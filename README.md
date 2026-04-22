@@ -89,7 +89,7 @@ Now I focus on building real projects, writing cleaner code, and improving my sk
 
 ## 📫 Contact
 
-📧 **[bjornevensk8@gmail.com](mailto:bjornevensk8@gmail.com)**  
+📧 **[bjornevensk8@gmail.com](mailto:bjornevensk8@gmail.com)** 🔗https://www.linkedin.com/in/beareven/ 
 
 ---
 
