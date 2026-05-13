@@ -76,10 +76,10 @@ Now I focus on building real projects, writing cleaner code, and improving my sk
 
 ## 🧰 Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,npm,nodejs,python,postgres,supabase,vscode,git,github,githubactions,photoshop,pr,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,npm,nodejs,cs,python,postgres,supabase,vscode,git,github,githubactions,photoshop,pr,ae)](https://skillicons.dev)
 
 **Planning to learn & understand more about**
-[![Learning Soon](https://skillicons.dev/icons?i=cs,dotnet,linux,docker)](https://skillicons.dev)
+[![Learning Soon](https://skillicons.dev/icons?i=dotnet,linux,docker)](https://skillicons.dev)
 
 ---
 
