@@ -10,11 +10,19 @@
 🚀 Building real-world applications & improving every day
 </p>
 <p align="center">
-🌐 <a href="https://www.reketino.no/">reketino</a> •
-📩 <a href="mailto:bjornevensk8@gmail.com">bjornevensk8@gmail.com</a>
+  🌐 <a href="https://www.reketino.no/">reketino</a> •
+  📩 <a href="mailto:bjornevensk8@gmail.com">bjornevensk8@gmail.com</a>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/norway_public/Reketino.svg)](https://user-badge.committers.top/norway_public/Reketino)
+<p align="center">
+  <a href="https://user-badge.committers.top/norway_public/Reketino">
+    <img
+      src="https://user-badge.committers.top/norway_public/Reketino.svg"
+      alt="committers.top badge"
+    />
+  </a>
+</p>
+
 ---
 
 ## 🧠 About Me
