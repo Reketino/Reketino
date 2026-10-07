@@ -14,6 +14,7 @@
 📩 <a href="mailto:bjornevensk8@gmail.com">bjornevensk8@gmail.com</a>
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/norway_public/Reketino.svg)](https://user-badge.committers.top/norway_public/Reketino)
 ---
 
 ## 🧠 About Me
@@ -102,7 +103,7 @@ Now I focus on building real projects, writing cleaner code, and improving my sk
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reketino&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reketino&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Reketino&theme=tokyonight&hide_border=true)
-[![committers.top badge](https://user-badge.committers.top/norway_public/Reketino.svg)](https://user-badge.committers.top/norway_public/Reketino)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Reketino&style=flat-square&color=blue" />
