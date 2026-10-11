@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://user-badge.committers.top/norway_public/Reketino">
+  <a href="https://user-badge.committers.top/norway_private/Reketino">
     <img
-      src="https://user-badge.committers.top/norway_public/Reketino.svg"
+      src="https://user-badge.committers.top/norway_private/Reketino.svg"
       alt="committers.top badge"
     />
   </a>
