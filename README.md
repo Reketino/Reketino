@@ -6,9 +6,12 @@
 
 <p align="center">
 💻 Full-stack developer from Norway  
+<br />
 ⚡ Next.js • Tailwind • Python  
-🚀 Building real-world applications & improving every day
+<br />
+🚀 Building cool stuff, fixing bugs, creating new ones
 </p>
+
 <p align="center">
   🌐 <a href="https://www.reketino.no/">reketino</a> •
   📩 <a href="mailto:bjornevensk8@gmail.com">bjornevensk8@gmail.com</a>
@@ -27,59 +30,23 @@
 
 ## 🧠 About Me
 
-I’ve spent 20+ years around computers — from gaming 🎮 to creative work in Premiere Pro and Photoshop.
-
-After graduating from **Kodehode**, I went all-in on software development.  
-Now I focus on building real projects, writing cleaner code, and improving my skills every single day.
+Software developer from Norway 🇳🇴. **Kodehode** graduate, building cool stuff with code. Professional bug creator, part-time bug fixer.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently
 
-- Building production-ready full-stack apps  
-- Writing cleaner, more maintainable code  
-- Learning deeper backend architecture  
-- Exploring .NET & C#  
-
----
-
-## 🧠 What I Know
-
-- Building and integrating APIs (auth, data flow, automation)  
-- Designing full-stack applications (frontend + backend architecture)  
-- Writing structured backend logic in Python and Node.js  
-- Handling async workflows, error handling & environment configs  
-- Creating interactive UIs with React & Next.js  
-- Working with real-world projects and client solutions  
-- Turning ideas into actual working systems  
+- Building with Next.js, TypeScript & Python
+- Exploring backend architecture, APIs & databases
+- Learning more about .NET & C#
 
 ---
 
 ## 💻 Tech Stack
 
-**Main tools**
-- Next.js (App Router)  
-- React + TypeScript  
-- Tailwind CSS  
-- Python  
-- Node.js  
+**Main**: Next.js · React · TypeScript · Tailwind CSS · Python · Node.js
 
-**Also worked with**
-- REST APIs  
-- Supabase / PostgreSQL  
-- Git & GitHub  
-- Authentication basics (sessions, tokens)  
-
----
-
-## 🚀 How I Build
-
-- React & Next.js — my natural habitat  
-- Tailwind — styling faster than I break things  
-- API routes & server components (Next.js 16 chaos included)  
-- Python for backend logic & automation  
-- Debugging → 70% fixing, 30% questioning life  
-- API integrations like I own the internet  
+**Also**: Supabase · PostgreSQL · REST APIs · Git · GitHub
 
 ---
 
