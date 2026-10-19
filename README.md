@@ -52,10 +52,10 @@ Software developer from Norway 🇳🇴. **Kodehode** graduate, building cool st
 
 ## 🧰 Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,npm,nodejs,cs,python,postgres,supabase,vscode,git,github,githubactions,linux,photoshop,pr,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,cs,dotnet,tailwind,react,nextjs,npm,nodejs,vite,python,postgres,supabase,vscode,git,github,githubactions,linux,ubuntu,photoshop,pr,ae)](https://skillicons.dev)
 
 **Planning to learn & understand more about**
-[![Learning Soon](https://skillicons.dev/icons?i=dotnet,docker)](https://skillicons.dev)
+[![Learning Soon](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ---
 
